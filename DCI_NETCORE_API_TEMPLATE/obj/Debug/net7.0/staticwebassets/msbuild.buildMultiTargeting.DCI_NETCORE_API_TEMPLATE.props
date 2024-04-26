@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DCI_NETCORE_API_TEMPLATE.props" />
+</Project>
