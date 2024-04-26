@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v2lOPeHZEMk7rX0aJ1jk47V59ms/oEF2qmjVy1zzuTfeYwdvipNFKO1D320s0IqMDBldF+ujuG9+FWO+QD8MHQ==",
+  "dgSpecHash": "a9Chx04HGJwoAT0lyFMeJVLbdOWml6JcADyhMeWVVbZfHWss9d187ymZfY/6T1luhNgUt7J3sJAfVpoIPdQM3A==",
   "success": true,
-  "projectFilePath": "D:\\git\\DCI_NETCORE_API_TEMPLATE\\DCI_NETCORE_API_TEMPLATE\\DCI_NETCORE_API_TEMPLATE.csproj",
+  "projectFilePath": "D:\\git\\DCI_DELIVERY_PACKAGING_API\\DCI_NETCORE_API_TEMPLATE\\DCI_DELIVERY_PACKAGING_API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\peerapong.k.ITNB17_41256\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\peerapong.k.ITNB17_41256\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

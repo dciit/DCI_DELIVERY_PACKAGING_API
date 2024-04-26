@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using Oracle.ManagedDataAccess.Client;
 using System.Data;
+using Oracle.ManagedDataAccess.Client;
 
 /// <summary>
 /// Summary description for OraConnectDB
@@ -15,9 +15,6 @@ public class OraConnectDB
 
     public OraConnectDB(string DBSource)
     {
-        //
-        // TODO: Add constructor logic here
-        //
         if (DBSource == "ALPHA01")
         {
             connStr = @"Data Source=(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.214.123)(PORT = 1531)) (CONNECT_DATA = (SID = DCIOS01)));User Id=master;Password=master";
@@ -33,18 +30,6 @@ public class OraConnectDB
     }
 
     private bool useDB = true;
-    //private string connStr = System.Configuration.ConfigurationSettings.AppSettings["DesignMachineMonitoring.Properties.Settings.ETD_YCConnectionString"];
-    //private string connStr = "Data Source=costy;Initial Catalog=dbDCI; Persist Security Info=True; User ID=sa;Password=decjapan;";
-
-
-    //Property ObjectManages As Object
-
-    /// <summary>
-    /// Query table by string and return table 
-    /// </summary>
-    /// <param name="queryStr">String of sql query</param>
-    /// <returns>DataTable</returns>
-    /// <remarks></remarks>
     public DataTable Query(string queryStr)
     {
         if (useDB)

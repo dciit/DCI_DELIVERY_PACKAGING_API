@@ -2749,11 +2749,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git\\DCI_NETCORE_API_TEMPLATE\\DCI_NETCORE_API_TEMPLATE\\DCI_NETCORE_API_TEMPLATE.csproj",
-      "projectName": "DCI_NETCORE_API_TEMPLATE",
-      "projectPath": "D:\\git\\DCI_NETCORE_API_TEMPLATE\\DCI_NETCORE_API_TEMPLATE\\DCI_NETCORE_API_TEMPLATE.csproj",
+      "projectUniqueName": "D:\\git\\DCI_DELIVERY_PACKAGING_API\\DCI_NETCORE_API_TEMPLATE\\DCI_DELIVERY_PACKAGING_API.csproj",
+      "projectName": "DCI_DELIVERY_PACKAGING_API",
+      "projectPath": "D:\\git\\DCI_DELIVERY_PACKAGING_API\\DCI_NETCORE_API_TEMPLATE\\DCI_DELIVERY_PACKAGING_API.csproj",
       "packagesPath": "C:\\Users\\peerapong.k.ITNB17_41256\\.nuget\\packages\\",
-      "outputPath": "D:\\git\\DCI_NETCORE_API_TEMPLATE\\DCI_NETCORE_API_TEMPLATE\\obj\\",
+      "outputPath": "D:\\git\\DCI_DELIVERY_PACKAGING_API\\DCI_NETCORE_API_TEMPLATE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
